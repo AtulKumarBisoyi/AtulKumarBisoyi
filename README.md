@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atul Kumar Bisoyi</h1>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-- 🔭 I’m currently working on **a Full Stack Project**
+- 🔭 I’m currently working on a Full Stack Project
 
 - 🌱 I’m currently learning **Data Structures and React Js**
 
